@@ -16,13 +16,13 @@ Welcome to my profile! 😎
 
 - 📫 How to reach me **ailingalanterosso@gmail.com**
 
-- 📄 Know about my experiences [ailingalante/](https:/www.linkedin.com/in/ailingalante/)
+- 📄 Know about my experiences [https:/www.linkedin.com/in/ailingalante/](https:/www.linkedin.com/in/ailingalante/)
 
 - ⚡ Fun fact **I'm also an opera singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ailingalante/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ailingalante/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ailingalante/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ailingalante/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
