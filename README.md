@@ -2,6 +2,14 @@
 <h1 align="center">Hi 👋, I'm Ailín Galante</h1>
 <h3 align="center">A full stack developer from Argentina</h3>
 
+Welcome to my profile! 😎
+
+- 👋 My name is Ailín Galante, Full Stack Developer and Henry student. I'm 22 years old, and I come from Miramar, Buenos Aires, Argentina, but I recently moved to Mar del Plata. 
+
+- 👩‍💻 I was always interested in technology and website design.
+
+- 💖 I am very motivated by everything related to the web, and working with people. My goals are to keep learning as much as I can, satisfying my curiosity, as well as to develop personal projects for myself and to collaborate with people in my community in their own personal goals.
+
 - 🌱 I’m currently learning **typescript**
 
 - 💬 Ask me about **react.js, redux.js, javascript, html, css, express**
