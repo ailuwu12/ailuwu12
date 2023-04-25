@@ -16,7 +16,7 @@ Welcome to my profile! 😎
 
 - 📫 How to reach me **ailingalanterosso@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ailingalante/](ailingalante/)
+- 📄 Know about my experiences [ailingalante/](https:/www.linkedin.com/in/ailingalante/)
 
 - ⚡ Fun fact **I'm also an opera singer**
 
