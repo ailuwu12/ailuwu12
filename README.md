@@ -10,7 +10,7 @@ Welcome to my profile! 😎
 
 - 💖 I am very motivated by everything related to the web, and working with people. My goals are to keep learning as much as I can, satisfying my curiosity, as well as to develop personal projects for myself and to collaborate with people in my community in their own personal goals.
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **typescript, python**
 
 - 💬 Ask me about **react.js, redux.js, javascript, html, css, express**
 
